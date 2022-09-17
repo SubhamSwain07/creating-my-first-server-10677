@@ -1,0 +1,23 @@
+{
+  "name": "creating-my-first-server-10677",
+  "version": "1.0.0",
+  "description": "This is my first NOdeJS Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamSwain07/creating-my-first-server-10677.git"
+  },
+  "author": "Subham Swain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhamSwain07/creating-my-first-server-10677/issues"
+  },
+  "homepage": "https://github.com/SubhamSwain07/creating-my-first-server-10677#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
